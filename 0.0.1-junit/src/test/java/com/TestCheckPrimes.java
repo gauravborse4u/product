@@ -16,7 +16,7 @@ public class TestCheckPrimes {
 
 		assertEquals(false, p1.checkPrime(44));
 
-		assertEquals(true, p1.checkPrime(77));
+		assertEquals(false, p1.checkPrime(77));
 
 	}
 
